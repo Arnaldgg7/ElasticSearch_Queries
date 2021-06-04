@@ -12,7 +12,7 @@ After inserting all the JSON documents that the dataset contains, creating the c
 
 **Q3:** Find all the documents corresponding to an act or a scene of the play “Othello”.
 
-**Q4:** Find the documents where the text entry contains the word “Juliet” from the play “Romeo and Juliet” not spoken by Romeo. Do the results change if you search for “JULIET” or “juliet”? Explain your answer.
+**Q4:** Find the documents where the text entry contains the word “Juliet” from the play “Romeo and Juliet” not spoken by Romeo.
 
 **Q5:** Find the documents where the text entry contains the phrase “My love” from the play “Romeo and Juliet”.
 
